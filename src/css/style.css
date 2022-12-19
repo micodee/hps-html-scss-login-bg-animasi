@@ -170,4 +170,8 @@ section .signin .content .form .links a:nth-child(2) {
     background: #181818;
     z-index: 2;
   }
+  .signin {
+    max-width: 90%;
+    font-size: 0.8rem;
+  }
 }/*# sourceMappingURL=style.css.map */
